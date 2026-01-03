@@ -1,1 +1,1 @@
-# discord-kuji-bot-v3
+# discord-kuji-bot-v3(perfect)
